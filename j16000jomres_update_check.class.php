@@ -20,7 +20,7 @@ defined('_JOMRES_INITCHECK') or die('');
 	 * 
 	 */
 
-class j16000jomres_plugin_update_check
+class j16000jomres_update_check
 {	
 	/**
 	 *
