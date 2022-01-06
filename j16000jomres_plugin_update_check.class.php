@@ -49,6 +49,6 @@ class j16000jomres_plugin_update_check
 
 	public function getRetVals()
 	{
-		return $this->retVals;
+		return null;
 	}
 }
